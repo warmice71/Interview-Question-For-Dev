@@ -135,5 +135,13 @@ git clone https://github.com/Devinterview-io/backtracking-algorithms-interview-q
 git clone https://github.com/Devinterview-io/array-data-structure-interview-questions.git
 git clone https://github.com/Devinterview-io/bit-manipulation-interview-questions.git
 
+git clone https://github.com/Devinterview-io/svm-interview-questions.git
+git clone https://github.com/Devinterview-io/express-interview-questions.git
+git clone https://github.com/Devinterview-io/hash-table-data-structure-interview-questions.git
+git clone https://github.com/Devinterview-io/time-series-interview-questions.git
+git clone https://github.com/Devinterview-io/scala-interview-questions.git
+git clone https://github.com/Devinterview-io/probability-interview-questions.git
+git clone https://github.com/Devinterview-io/pca-interview-questions.git
+
 
 pause
